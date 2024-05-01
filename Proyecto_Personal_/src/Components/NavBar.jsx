@@ -8,6 +8,10 @@ const links = [{
     name: "About",
     href: "/About",
 },
+{
+    name: "History",
+    href: "/History",
+},
 ];
 
 const NavBar = () => {
